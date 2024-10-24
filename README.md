@@ -18,8 +18,10 @@ Our data is from winemag-data_first150k.csv, which is a file that contains infor
 
 ## Evaluation
 The following depicts a very even score through both models using different transforming methods. 
+
 ![image](https://github.com/user-attachments/assets/61e5a61e-65bf-4f64-a2f2-4156e9eb2cab)
 
 ## Classification Report
 My classification report shows even scores throughout and an even distribution between the classes predicted.
+
 ![image](https://github.com/user-attachments/assets/7d1d4269-d9ee-4c04-b251-bd07f0e3fea1)
